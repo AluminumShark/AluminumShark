@@ -12,7 +12,7 @@ I care about clear interfaces, reproducible experiments, and measurable improvem
 - I keep things pragmatic: small demos → production orchestration.
 
 ## Tech Stack (concise)
-- **Core**: Python, PyTorch, LangChain/Chroma, FastAPI  
+- **Core**: Python, PyTorch, LangGraph, FastAPI  
 - **Systems**: Docker, GitHub Actions, Vercel / IBM Cloud  
 - **Also use**: TypeScript/Next.js, C++ when performance matters
 
