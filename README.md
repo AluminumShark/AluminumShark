@@ -1,35 +1,27 @@
 <h1 align="center">Levi — building intelligent systems</h1>
 <p align="center">
-  I design and ship end-to-end systems that combine data, learning, and orchestration.<br/>
+  I design and ship end-to-end systems that connect data, learning, and orchestration.<br/>
   Python · PyTorch · TypeScript/Next.js · C++
 </p>
 
 ## About
-I’m an engineer–researcher focused on **intelligent systems**: multi-agent workflows, retrieval, evaluation/governance, and reliability.  
-My work spans from data pipelines and modeling to **production orchestration** and pragmatic UX for analysis.
+Engineer–researcher focused on **intelligent systems**: agentic workflows, retrieval, and evaluation/reliability.  
+I care about clear interfaces, reproducible experiments, and measurable improvements.
 
-- Interests: agents & tool-use, retrieval/RAG, evaluation & governance, optimization heuristics
-- I like clear docs, small reproducible demos, and measurable improvements.
-
-## Selected Projects
-- 🧠 **Social-Debate-AI** — Multi-agent debate simulation that integrates LLMs with RAG, GNNs, and RL.  
-  → https://github.com/AluminumShark/Social-Debate-AI
-- 💹 **FinFlash** — Real-time financial news analysis with multi-agent architecture and external search.  
-  → https://github.com/AluminumShark/FinFlash
-- 🧪 **BERT-Hyperopt-Comparison** — GA/PSO/Bayesian Optimization for BERT hyperparameters with consistent eval.  
-  → https://github.com/AluminumShark/Bert-Hyperopt-Comparison
-- 🌍 **Carbon-Emissions-Trading-Experiment** — oTree + WebSocket live market for trading/permit policies.  
-  → https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment
-- 📚 **Synthetic_Difference_in_Difference** — Python implementation of SDID for policy evaluation with diagnostics.  
-  → https://github.com/AluminumShark/Synthetic_Difference_in_Difference
-- 🧩 **Algorithmic-Learning-Journal** — Notes & implementations for DSA and problem-solving patterns.  
-  → https://github.com/AluminumShark/Algorithmic-Learning-Journal
+- Interests: agents & tool-use, RAG, evaluation/governance, optimization heuristics  
+- I keep things pragmatic: small demos → production orchestration.
 
 ## Tech Stack (concise)
 - **Core**: Python, PyTorch, LangChain/Chroma, FastAPI  
-- **Systems**: Docker, GitHub Actions, Vercel/IBM Cloud  
+- **Systems**: Docker, GitHub Actions, Vercel / IBM Cloud  
 - **Also use**: TypeScript/Next.js, C++ when performance matters
 
-## Collaboration
-I’m open to collaborations around agents, retrieval, and reliability/governance.  
-**Contact**: your.email@domain.com · LinkedIn: https://www.linkedin.com/in/wei-lee-3b2881193
+---
+
+## LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AluminunShark?theme=dark&ext=contest,heatmap&border=0)](https://leetcode.com/u/AluminunShark/)
+<sub>I occasionally practice problem-solving patterns; this card just mirrors public progress.</sub>
+
+<!-- Optional: 如果不想依賴外部圖，改成簡單徽章
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/AluminunShark/)
+-->
