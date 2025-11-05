@@ -1,4 +1,4 @@
-<h1 align="center">Levi — building intelligent systems</h1>
+<h1 align="center">Levi</h1>
 <p align="center">
   I design and ship end-to-end systems that connect data, learning, and orchestration.<br/>
   Python · PyTorch · TypeScript/Next.js · C++
