@@ -13,14 +13,15 @@ I care about clear interfaces, reproducible experiments, and measurable improvem
 
 ## Tech Stack (concise)
 - **Core**: Python, PyTorch, LangGraph, FastAPI  
-- **Systems**: Docker, GitHub Actions, Vercel / IBM Cloud  
+- **Systems**: Docker, GitHub Actions, Vercel / GCP / IBM Cloud  
 - **Also use**: TypeScript/Next.js, C++ when performance matters
 
 ---
-<!--
+
 ## LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AluminunShark?theme=dark&ext=contest,heatmap&border=0)](https://leetcode.com/u/AluminunShark/)
-<sub>I occasionally practice problem-solving patterns; this card just mirrors public progress.</sub>-->
+<sub>I occasionally practice problem-solving patterns; this card just mirrors public progress.</sub>
 
+<!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/AluminunShark/)
-
+-->
