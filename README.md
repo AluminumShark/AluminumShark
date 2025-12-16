@@ -66,7 +66,7 @@ My work focuses on building autonomous agents that reason, designing experiments
 ### 🧩 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AluminunShark?theme=dark&ext=contest,heatmap&border=0)](https://leetcode.com/u/AluminunShark/)
-<sub>I occasionally practice problem-solving patterns; this card just mirrors public progress.</sub>
+
 
 ---
 
