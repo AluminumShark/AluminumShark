@@ -39,7 +39,7 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 * **Stack:** `oTree`, `WebSockets`, `JavaScript`, `Python`.
 
 #### 🤖 [Social-Debate-AI](https://github.com/AluminumShark/Social-Debate-AI) (Multi-Agent System)
-[![Model Weights](https://img.shields.io/badge/Model-Weights_Uploaded-green?style=flat-square&logo=github)](https://github.com/AluminumShark/Social-Debate-AI/tree/main)
+[![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-blueviolet?style=flat-square&logo=python&logoColor=white)](https://github.com/AluminumShark/Social-Debate-AI)
 
 > **Agent Orchestration:** A deep learning system where autonomous agents with distinct personalities debate to persuade a target audience.
 
