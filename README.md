@@ -19,7 +19,7 @@ My work focuses on building autonomous agents that reason, designing experiments
 | **Optimization & ML** | PyTorch, Bayesian Optimization, Genetic Algorithms (GA), PSO, Reinforcement Learning (PPO) |
 | **Causal Inference** | Synthetic Difference-in-Differences (**SDID**), Econometrics, Experimental Design (**oTree**) |
 | **Backend & DevOps** | FastAPI, Flask, Docker, GitHub Actions, Cloud Deployment (GCP/IBM) |
-| **Languages** | Python (Expert), C++, TypeScript/Next.js |
+| **Languages** | Python (Expert), C++, R, TypeScript/Next.js |
 
 ---
 
