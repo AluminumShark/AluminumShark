@@ -52,7 +52,7 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | **Python (Expert)**, SQL, JavaScript, R, C++ (Learning) |
+| **Languages** | **Python (Expert)**, SQL, JavaScript, R, C++ |
 | **AI & Agents** | LangChain, **LangGraph**, OpenAI API, RAG, PyTorch (RL/GNN) |
 | **Data & Algo** | Pandas, NumPy, Causal Inference (**SDID**), Optimization (GA/PSO/Bayesian) |
 | **Backend & DevOps** | **PyPI Packaging**, FastAPI, Flask, Docker, GitHub Actions |
