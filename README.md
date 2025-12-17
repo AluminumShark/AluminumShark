@@ -2,12 +2,49 @@
 
 > **Engineer–Researcher building intelligent systems across data, learning, and orchestration.**
 
-I am an AI Engineer with a background in Political Science and Economics research. I specialize in bridging the gap between **advanced algorithms** (Causal Inference, Optimization) and **scalable engineering** (Multi-Agent Systems, RAG).
+I am a Python Engineer with a background in political science and economics research. I specialize in bridging the gap between **advanced algorithms** (Causal Inference, Optimization) and **production engineering** (Multi-Agent Systems, Open Source Tools).
 
-My work focuses on building autonomous agents that reason, designing experiments to understand behavior, and optimizing models for real-world performance.
+My work focuses on building autonomous agents, designing real-time experimental platforms, and creating reliable open-source tools for the data science community.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-lee-3b2881193)
-[![My GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AluminumShark)
+<div align="left">
+  <a href="https://www.linkedin.com/in/wei-lee-3b2881193">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/project/sdid/"> <img src="https://img.shields.io/badge/PyPI-Project_Author-blue?style=for-the-badge&logo=pypi&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🏆 Featured Engineering Projects
+
+I prioritize **reproducibility**, **system architecture**, and **usability** in my code.
+
+#### 📦 [Synthetic_Difference_in_Difference](https://github.com/AluminumShark/Synthetic_Difference_in_Difference) (Open Source Library)
+[![PyPI](https://img.shields.io/pypi/v/sdid?logo=pypi&logoColor=white&style=flat-square&color=blue)](https://pypi.org/project/sdid/) [![Downloads](https://img.shields.io/pypi/dm/sdid?logo=pypi&logoColor=white&style=flat-square&color=orange)](https://pypi.org/project/sdid/)
+
+> **Open Source Contribution:** A production-ready Python library for the Synthetic Difference-in-Differences (SDID) estimator.
+
+* **Engineering:** Designed, packaged, and published a library accessible via `pip install`.
+* **Optimization:** Implemented complex econometric algorithms with optimized matrix operations using NumPy/Pandas.
+* **Impact:** Provides researchers with a stable, documented tool for causal inference and policy evaluation.
+
+#### 📉 [Carbon-Emissions-Trading-Platform](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment) (Real-Time System)
+[![Real-Time](https://img.shields.io/badge/System-Real--Time_Interaction-red?style=flat-square&logo=django&logoColor=white)](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment)
+
+> **Complex System Design:** A real-time, multi-player trading platform simulating carbon markets.
+
+* **System Architecture:** Built a real-time trading environment where multiple users interact simultaneously (bidding/asking) under varying constraints.
+* **Concurrency:** Handled synchronized state updates and real-time data flow between the server and multiple clients.
+* **Stack:** `oTree`, `WebSockets`, `JavaScript`, `Python`.
+
+#### 🤖 [Social-Debate-AI](https://github.com/AluminumShark/Social-Debate-AI) (Multi-Agent System)
+[![Model Weights](https://img.shields.io/badge/Model-Weights_Uploaded-green?style=flat-square&logo=github)](https://github.com/AluminumShark/Social-Debate-AI/tree/main)
+
+> **Agent Orchestration:** A deep learning system where autonomous agents with distinct personalities debate to persuade a target audience.
+
+* **Reproducibility:** **Pre-trained weights** and full environment configurations are provided for instant inference.
+* **Tech Stack:** Orchestrated agents using `LangGraph` and `RAG`, integrating **Graph Neural Networks (GNN)** and **RL (PPO)** for strategy optimization.
 
 ---
 
@@ -15,51 +52,18 @@ My work focuses on building autonomous agents that reason, designing experiments
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI Agents & RAG** | Python, LangChain, **LangGraph**, OpenAI API, FAISS/Chroma, Multi-Agent Orchestration |
-| **Optimization & ML** | PyTorch, Bayesian Optimization, Genetic Algorithms (GA), PSO, Reinforcement Learning (PPO) |
-| **Causal Inference** | Synthetic Difference-in-Differences (**SDID**), Econometrics, Experimental Design (**oTree**) |
-| **Backend & DevOps** | FastAPI, Flask, Docker, GitHub Actions, Cloud Deployment (GCP/IBM) |
-| **Languages** | Python (Expert), C++, R, TypeScript/Next.js |
+| **Languages** | **Python (Expert)**, SQL, JavaScript, R, C++ (Learning) |
+| **AI & Agents** | LangChain, **LangGraph**, OpenAI API, RAG, PyTorch (RL/GNN) |
+| **Data & Algo** | Pandas, NumPy, Causal Inference (**SDID**), Optimization (GA/PSO/Bayesian) |
+| **Backend & DevOps** | **PyPI Packaging**, FastAPI, Flask, Docker, GitHub Actions |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Other Projects
 
-#### 🤖 Agentic Systems & Orchestration
-
-* **[Social-Debate-AI](https://github.com/AluminumShark/Social-Debate-AI)**
-    * **Concept:** A deep learning-based multi-agent system simulating social debates.
-    * **Stack:** `LangGraph`, `RAG`, `GNN` (Graph Neural Networks), `RL` (PPO).
-    * **Highlight:** Orchestrates agents with distinct personalities to debate topics, utilizing GNNs to predict persuasion outcomes within a social network.
-
-* **[FinFlash](https://github.com/AluminumShark/FinFlash)**
-    * **Concept:** An autonomous multi-agent system for real-time financial news analysis.
-    * **Stack:** `GPT-4o`, `Exa API` (Neural Search), `Whisper API`, `Flask`.
-    * **Highlight:** Automates the full pipeline from information retrieval (text/audio) to risk assessment and executive summary generation.
-
-#### 🧠 Optimization & Algorithmic Research
-
-* **[Bert-Hyperopt-Comparison](https://github.com/AluminumShark/Bert-Hyperopt-Comparison)**
-    * **Concept:** A comparative study of heuristic algorithms for NLP model fine-tuning.
-    * **Stack:** `Genetic Algorithms`, `Particle Swarm Optimization (PSO)`, `Bayesian Optimization`, `BERT`.
-    * **Highlight:** Benchmarked convergence speeds and accuracy gains of different optimization strategies on sentiment analysis tasks.
-
-* **[Algorithmic-Learning-Journal](https://github.com/AluminumShark/Algorithmic-Learning-Journal)**
-    * **Concept:** A structured archive of advanced data structures and algorithm design patterns.
-    * **Stack:** `Python`, `Complexity Analysis`, `System Design`.
-    * **Highlight:** Documenting problem-solving logic and computational thinking patterns for complex engineering challenges.
-
-#### 📊 Causal Inference & Economics
-
-* **[Synthetic_Difference_in_Difference](https://github.com/AluminumShark/Synthetic_Difference_in_Difference)**
-    * **Concept:** A Python implementation of the Synthetic Difference-in-Differences (SDID) estimator.
-    * **Stack:** `Causal Inference`, `Convex Optimization`, `Panel Data Analysis`.
-    * **Highlight:** Implemented state-of-the-art econometric methods for policy evaluation, combining the strengths of Synthetic Control and DID.
-
-* **[Carbon-Emissions-Trading-Experiment](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment)**
-    * **Concept:** An experimental economics platform studying producer behavior under carbon policies.
-    * **Stack:** `oTree`, `Behavioral Economics`, `Data Analysis`.
-    * **Highlight:** Simulated the impact of carbon trading, taxes, and cap-and-control policies on market dynamics.
+* **[FinFlash](https://github.com/AluminumShark/FinFlash):** Autonomous financial news analysis agent using Neural Search (Exa) and GPT-4o.
+* **[Bert-Hyperopt-Comparison](https://github.com/AluminumShark/Bert-Hyperopt-Comparison):** Benchmarking genetic algorithms and Bayesian optimization for BERT fine-tuning.
+* **[Algorithmic-Learning-Journal](https://github.com/AluminumShark/Algorithmic-Learning-Journal):** A structured archive of data structures and algorithm design patterns.
 
 ---
 
@@ -67,8 +71,14 @@ My work focuses on building autonomous agents that reason, designing experiments
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AluminunShark?theme=dark&ext=contest,heatmap&border=0)](https://leetcode.com/u/AluminunShark/)
 
-
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AluminumShark&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AluminumShark&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+</div>
 
 ### ⚡ GitHub Stats
 
