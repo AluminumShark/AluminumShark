@@ -43,9 +43,8 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 
 > **Agent Orchestration:** A deep learning system where autonomous agents with distinct personalities debate to persuade a target audience.
 
-* **Reproducibility:** **Pre-trained weights** and full environment configurations are provided for instant inference.
-* **Tech Stack:** Orchestrated agents using `LangGraph` and `RAG`, integrating **Graph Neural Networks (GNN)** and **RL (PPO)** for strategy optimization.
-
+* **System Design:** Engineered a modular **Multi-Agent** workflow using **LangGraph**, enabling complex state management and dynamic agent interactions.
+* **Tech Stack:** Integrates **Graph Neural Networks (GNN)** for social impact prediction and **RL (PPO)** for strategy optimization.
 ---
 
 ### 🛠️ Tech Stack & Expertise
