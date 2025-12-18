@@ -10,7 +10,8 @@ My work focuses on building autonomous agents, designing real-time experimental 
   <a href="https://www.linkedin.com/in/wei-lee-3b2881193">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pypi.org/project/sdid/"> <img src="https://img.shields.io/badge/PyPI-Project_Author-blue?style=for-the-badge&logo=pypi&logoColor=white" />
+  <a href="https://pypi.org/project/sdid/">
+    <img src="https://img.shields.io/badge/PyPI-Project_Author-blue?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
 </div>
 
@@ -25,8 +26,8 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 
 > **Open Source Contribution:** A production-ready Python library for the Synthetic Difference-in-Differences (SDID) estimator.
 
-* **Engineering:** Designed, packaged, and published a library accessible via `pip install`.
-* **Optimization:** Implemented complex econometric algorithms with optimized matrix operations using NumPy/Pandas.
+* **Engineering:** Designed, packaged, and published a library accessible via `pip install`, ensuring standard distribution protocols.
+* **Optimization:** Implemented complex econometric algorithms with optimized matrix operations using **NumPy** and **Pandas**.
 * **Impact:** Provides researchers with a stable, documented tool for causal inference and policy evaluation.
 
 #### 📉 [Carbon-Emissions-Trading-Platform](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment) (Real-Time System)
@@ -34,17 +35,19 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 
 > **Complex System Design:** A real-time, multi-player trading platform simulating carbon markets.
 
-* **System Architecture:** Built a real-time trading environment where multiple users interact simultaneously (bidding/asking) under varying constraints.
-* **Concurrency:** Handled synchronized state updates and real-time data flow between the server and multiple clients.
-* **Stack:** `oTree`, `WebSockets`, `JavaScript`, `Python`.
+* **Architecture:** Built a real-time trading environment where multiple users interact simultaneously (bidding/asking) under varying constraints.
+* **Concurrency:** Handled synchronized state updates and high-frequency data flow between the server and multiple clients.
+* **Stack:** Built with **oTree**, **WebSockets**, **JavaScript**, and **Python**.
 
 #### 🤖 [Social-Debate-AI](https://github.com/AluminumShark/Social-Debate-AI) (Multi-Agent System)
 [![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-blueviolet?style=flat-square&logo=python&logoColor=white)](https://github.com/AluminumShark/Social-Debate-AI)
 
 > **Agent Orchestration:** A deep learning system where autonomous agents with distinct personalities debate to persuade a target audience.
 
-* **System Design:** Engineered a modular **Multi-Agent** workflow using **LangGraph**, enabling complex state management and dynamic agent interactions.
-* **Tech Stack:** Integrates **Graph Neural Networks (GNN)** for social impact prediction and **RL (PPO)** for strategy optimization.
+* **System Design:** Engineered a modular **Multi-Agent** workflow using **LangGraph**, enabling complex state management.
+* **Algorithm:** Integrates **Graph Neural Networks (GNN)** for social impact prediction and **RL (PPO)** for strategy optimization.
+* **Orchestration:** Implemented dynamic agent interactions and memory handling to simulate realistic persuasion processes.
+
 ---
 
 ### 🛠️ Tech Stack & Expertise
@@ -78,4 +81,3 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
   <img src="https://github-readme-stats.vercel.app/api?username=AluminumShark&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AluminumShark&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
 </div>
-
