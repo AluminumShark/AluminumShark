@@ -78,6 +78,6 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AluminumShark&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AluminumShark&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api?username=AluminumShark&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api/top-langs/?username=AluminumShark&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
 </div>
