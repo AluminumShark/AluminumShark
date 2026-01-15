@@ -7,12 +7,12 @@ I am a Python Engineer with a background in political science and economics rese
 My work focuses on building autonomous agents, designing real-time experimental platforms, and creating reliable open-source tools for the data science community.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/wei-lee-3b2881193">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pypi.org/project/sdid/">
-    <img src="https://img.shields.io/badge/PyPI-Project_Author-blue?style=for-the-badge&logo=pypi&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/wei-lee-3b2881193">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/project/sdid/">
+    <img src="https://img.shields.io/badge/PyPI-Project_Author-blue?style=for-the-badge&logo=pypi&logoColor=white" />
+  </a>
 </div>
 
 ---
