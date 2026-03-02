@@ -63,6 +63,7 @@ I prioritize **reproducibility**, **system architecture**, and **usability** in 
 
 ### Other Projects
 
+* **[Tick-Backtest](https://github.com/AluminumShark/Tick-Backtest):** MA Crossover + RSI strategy backtested on XAUUSD tick data with Genetic Algorithm optimization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AluminumShark/Tick-Backtest/blob/main/notebooks/backtest.ipynb)
 * **[FinFlash](https://github.com/AluminumShark/FinFlash):** Autonomous financial news analysis agent using Neural Search (Exa) and GPT-4o.
 * **[Bert-Hyperopt-Comparison](https://github.com/AluminumShark/Bert-Hyperopt-Comparison):** Benchmarking genetic algorithms and Bayesian optimization for BERT fine-tuning.
 * **[Algorithmic-Learning-Journal](https://github.com/AluminumShark/Algorithmic-Learning-Journal):** A structured archive of data structures and algorithm design patterns.
