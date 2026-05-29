@@ -17,7 +17,6 @@ I build high-performance backtesting engines, production AI pipelines, and syste
 
 ### What I'm Working On
 
-- **Quant Dev** — Building tick-level backtesting and paper trading infrastructure for algorithmic trading strategies. Focused on high-performance computation (**Numba JIT**, **Cython**), walk-forward validation, and hyperparameter optimization.
 - **AI Agent Systems** — Designing RAG pipelines and multi-agent workflows on **GCP**, with LLM-powered document generation modules.
 - **Systems Programming** — Writing performance-critical code in C++ and Python (networked services, event-driven architectures, binary protocols).
 
