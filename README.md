@@ -65,12 +65,6 @@ A multi-player real-time carbon market simulation built with oTree and WebSocket
 
 ---
 
-### LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AluminumShark?theme=dark&ext=contest,heatmap&border=0)](https://leetcode.com/u/AluminumShark/)
-
----
-
 ### GitHub Stats
 
 <div align="center">
