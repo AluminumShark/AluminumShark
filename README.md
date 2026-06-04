@@ -29,9 +29,6 @@ I work at the intersection of quantitative/behavioral research methods and engin
 
 A production-ready Python implementation of the SDID causal inference estimator, published on PyPI (`pip install sdid`).
 
-#### [Build-My-Own-Redis](https://github.com/AluminumShark/Build-My-Own-Redis) — Systems Programming in C++
-A Redis-compatible key-value server built from scratch. Implements TCP socket handling, a `poll()`-based event loop, non-blocking I/O, and a custom binary protocol. Focused on understanding how real networked systems work at the syscall level.
-
 #### [Social-Debate-AI](https://github.com/AluminumShark/Social-Debate-AI) — Multi-Agent System
 LangGraph multi-agent LLM debate system with token streaming, BYOK/local-first LLM access, and FAISS RAG — plus an ablation study honestly measuring each ML module's value.
 
