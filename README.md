@@ -32,13 +32,8 @@ A production-ready Python implementation of the SDID causal inference estimator,
 #### [Build-My-Own-Redis](https://github.com/AluminumShark/Build-My-Own-Redis) — Systems Programming in C++
 A Redis-compatible key-value server built from scratch. Implements TCP socket handling, a `poll()`-based event loop, non-blocking I/O, and a custom binary protocol. Focused on understanding how real networked systems work at the syscall level.
 
-#### [Tick-Backtest](https://github.com/AluminumShark/Tick-Backtest) — Quantitative Strategy Engine
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AluminumShark/Tick-Backtest/blob/main/notebooks/backtest.ipynb)
-
-Tick-level backtesting framework for XAUUSD. MA Crossover + RSI strategy optimized via Genetic Algorithm. Achieved **Sharpe ~2.81 (train) / ~2.00 (validation)** under walk-forward evaluation, net of modeled spread and slippage.
-
 #### [Social-Debate-AI](https://github.com/AluminumShark/Social-Debate-AI) — Multi-Agent System
-A LangGraph-based multi-agent framework where autonomous agents with distinct personas debate to persuade a simulated audience. Integrates GNN for social impact modeling and PPO for strategy optimization.
+LangGraph multi-agent LLM debate system with token streaming, BYOK/local-first LLM access, and FAISS RAG — plus an ablation study honestly measuring each ML module's value.
 
 #### [Carbon-Emissions-Trading-Platform](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment) — Real-Time System
 A multi-player real-time carbon market simulation built with oTree and WebSockets. Handles concurrent bidding, synchronized state updates, and high-frequency data flow across multiple clients.
@@ -47,9 +42,9 @@ A multi-player real-time carbon market simulation built with oTree and WebSocket
 
 ### Other Projects
 
-- **[FinFlash](https://github.com/AluminumShark/FinFlash)** — Autonomous financial news agent using Neural Search (Exa) + GPT-4o.
+- **[Build-My-Own-Redis](https://github.com/AluminumShark/Build-My-Own-Redis)** - A Redis-compatible key-value server built from scratch.
+- **[FinFlash](https://github.com/AluminumShark/FinFlash)** — Type a company, get a BUY/HOLD/SELL verdict from a multi-agent LangGraph pipeline. Runs free & local (Ollama) or any cloud LLM (LiteLLM).
 - **[Bert-Hyperopt-Comparison](https://github.com/AluminumShark/Bert-Hyperopt-Comparison)** — Benchmarking GA vs. Bayesian optimization for BERT fine-tuning.
-- **[Algorithmic-Learning-Journal](https://github.com/AluminumShark/Algorithmic-Learning-Journal)** — Structured DSA pattern archive.
 
 ---
 
