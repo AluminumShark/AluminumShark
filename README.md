@@ -43,7 +43,7 @@ A multi-player real-time carbon market simulation built with oTree and WebSocket
 ### Other Projects
 
 - **[Build-My-Own-Redis](https://github.com/AluminumShark/Build-My-Own-Redis)** - A Redis-compatible key-value server built from scratch.
-- **[FinFlash](https://github.com/AluminumShark/FinFlash)** — Type a company, get a BUY/HOLD/SELL verdict from a multi-agent LangGraph pipeline. Runs free & local (Ollama) or any cloud LLM (LiteLLM).
+- **[FinFlash](https://github.com/AluminumShark/FinFlash)** — Type a company, get a BUY/HOLD/SELL verdict from a multi-agent LangGraph pipeline.
 - **[Bert-Hyperopt-Comparison](https://github.com/AluminumShark/Bert-Hyperopt-Comparison)** — Benchmarking GA vs. Bayesian optimization for BERT fine-tuning.
 
 ---
