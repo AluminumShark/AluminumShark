@@ -63,3 +63,12 @@ A multi-player real-time carbon market simulation built with oTree and WebSocket
   <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api?username=AluminumShark&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
   <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api/top-langs/?username=AluminumShark&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
 </div>
+
+---
+
+### LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AluminumShark?theme=dark&ext=contest,heatmap&border=0)](https://leetcode.com/u/AluminumShark/)
+
+---
+
