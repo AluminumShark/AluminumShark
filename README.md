@@ -42,15 +42,15 @@ A Python package implementing the **SDID estimator** for causal inference and po
 
 `pip install sdid`
 
-### [Social Debate AI](https://github.com/AluminumShark/Social-Debate-AI) — Multi-Agent Systems & Evaluation
+### [Carbon Emissions Trading Experiment](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment) — Real-Time Market Simulation
 
-A LangGraph-based LLM debate system combining RAG with experimental GNN/RL modules. Its ablation studies focus on **measuring whether components actually help**, including documenting where model signals and reward design fall short.
+A multi-player **experimental economics platform** built with oTree, featuring a live carbon-permit market, **WebSocket-based price updates**, and an order-matching engine. Connects economic research design with concurrent, event-driven software to study market behavior and emissions-trading mechanisms.
 
 ## More Things I've Built
 
 **[FinFlash](https://github.com/AluminumShark/FinFlash)** — Multi-agent financial-news analysis with structured outputs and retrieval.
 
-**[Carbon Trading Experiment](https://github.com/AluminumShark/Carbon-Emissions-Trading-Experiment)** — Real-time experimental-economics platform with a WebSocket market and order matching.
+**[Social Debate AI](https://github.com/AluminumShark/Social-Debate-AI)** — LLM debate system combining RAG with experimental GNN/RL modules and ablation studies.
 
 **[Build My Own Redis](https://github.com/AluminumShark/Build-My-Own-Redis)** — Redis-like C++ key-value server exploring TCP sockets, non-blocking I/O, and event loops.
 
@@ -68,5 +68,4 @@ A LangGraph-based LLM debate system combining RAG with experimental GNN/RL modul
 I studied **political science at National Taiwan University**, worked in **research at Academia Sinica**, and moved into AI engineering. I now enjoy work that combines hands-on implementation, technical problem-solving, and clear communication with the people who use the systems we build.
 
 I also share practical notes and tutorials on **[tensorOwl](https://tensorowl.dev/)**.
-
 
