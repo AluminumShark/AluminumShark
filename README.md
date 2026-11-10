@@ -24,7 +24,7 @@ Outside work, I maintain Python packages and teach hands-on AI workshops at **NT
 
 ### [lockwalk](https://github.com/AluminumShark/lockwalk) — Authorization Testing for AI Agents
 
-[![PyPI](https://img.shields.io/pypi/v/lockwalk?logo=pypi&logoColor=white&style=flat-square&color=blue)](https://pypi.org/project/lockwalk/)
+[![PyPI](https://img.shields.io/pypi/v/lockwalk?logo=pypi&logoColor=white&style=flat-square&color=blue)](https://pypi.org/project/lockwalk/) [![Total Downloads](https://img.shields.io/pepy/dt/lockwalk?logo=pypi&logoColor=white&style=flat-square&color=orange&label=total%20downloads)](https://pepy.tech/projects/lockwalk)
 
 An **alpha-stage Python toolkit** for testing the authorization setup around AI agent tools. It identifies untested permissions, compares expected decisions against an existing policy engine, checks whether denials are enforced, and can surface unexpected agent-to-tool routes from traces. Designed to make these checks visible in CI — **not** to replace IAM or act as an authorization gateway.
 
@@ -36,7 +36,7 @@ A hands-on **NTU AI Club** workshop I co-developed and teach, covering LangGraph
 
 ### [Synthetic Difference-in-Differences](https://github.com/AluminumShark/Synthetic_Difference_in_Difference) — Open-Source Causal Inference
 
-[![PyPI](https://img.shields.io/pypi/v/sdid?logo=pypi&logoColor=white&style=flat-square&color=blue)](https://pypi.org/project/sdid/)
+[![PyPI](https://img.shields.io/pypi/v/sdid?logo=pypi&logoColor=white&style=flat-square&color=blue)](https://pypi.org/project/sdid/) [![Total Downloads](https://img.shields.io/pepy/dt/sdid?logo=pypi&logoColor=white&style=flat-square&color=orange&label=total%20downloads)](https://pepy.tech/projects/sdid)
 
 A Python package implementing the **SDID estimator** for causal inference and policy evaluation, built out of my quantitative research interests and published on PyPI.
 
