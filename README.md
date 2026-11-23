@@ -61,7 +61,7 @@ A multi-player **experimental economics platform** built with oTree, featuring a
 | AI & agents | LangGraph, RAG, MCP, Agent Skills, PyTorch, LLM APIs |
 | Cloud & backend | GCP (Vertex AI, Cloud Run, Cloud SQL), FastAPI, PostgreSQL / pgvector, Docker, IBM watsonx |
 | Security & observability | Agent authorization testing, IAM concepts, OpenTelemetry, Langfuse, LangSmith |
-| Programming & research | Python, C++, SQL, causal inference, optimization, experimental design |
+| Programming & research | Python, C++, R, TypeScript, JavaScript, SQL, causal inference, optimization, experimental design |
 
 ## Background & Community
 
